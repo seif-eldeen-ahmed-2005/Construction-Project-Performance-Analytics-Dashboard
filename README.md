@@ -22,7 +22,7 @@ This project transforms raw project management, vendor, and financial data into 
 ### Executive Dashboard
 ![Construction Analysis Dashboard](Images/Dashboard.png)
 
-### Data Model (Star Schema)
+### Data Model (Galaxy Schema)
 ![Data Modeling](Images/Modelling.png)
 
 ### Data Preparation & ETL
